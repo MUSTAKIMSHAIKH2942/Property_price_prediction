@@ -4,7 +4,7 @@ This project aims to predict property prices based on various features such as t
 ## Project Structure
 The project is organized as follows:
 
-/Property_Price_Prediction/
+/Property_Price_Prediction/                                                                                                                                                                                              
 ├── notebooks/                                                                                                                  
 │   ├── eda.ipynb                                                                                                                
 │   ├── property_price_prediction.ipynb                                                                                         
@@ -15,7 +15,8 @@ The project is organized as follows:
 │   ├── evaluate.py  
 │   ├──  main.py                                                                                                               
 │   ├── eda_images/                                                                                                             
-└── README.md                                                                                                                   
+└── README.md   
+
 ## Notebooks
 eda.ipynb:
 This notebook is used for Exploratory Data Analysis (EDA). It explores the dataset by visualizing distributions and relationships between variables. It also performs feature engineering and prepares the data for model training.
