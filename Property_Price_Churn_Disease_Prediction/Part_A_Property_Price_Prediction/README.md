@@ -14,7 +14,8 @@ The project is organized as follows:
 │   ├── train.py                                                                                                                
 │   ├── evaluate.py  
 │   ├──  main.py                                                                                                               
-│   ├── eda_images/                                                                                                             └── README.md                                                                                                                   
+│   ├── eda_images/                                                                                                             
+└── README.md                                                                                                                   
 ## Notebooks
 eda.ipynb:
 This notebook is used for Exploratory Data Analysis (EDA). It explores the dataset by visualizing distributions and relationships between variables. It also performs feature engineering and prepares the data for model training.
