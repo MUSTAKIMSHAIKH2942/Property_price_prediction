@@ -107,6 +107,8 @@ Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 R² Score (coefficient of determination)
+
+
 Multiple Linear Regression Model:
 
 This model uses a combination of the following features: 'median_income', 'latitude', 'total_rooms', 'housing_median_age', and 'ocean_proximity_INLAND'.
